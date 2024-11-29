@@ -1,0 +1,92 @@
+{
+    "bigCatsData": [
+        {
+            "name": "Lion",
+            "size": 10,
+            "location": "Africa",
+            "image": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXepRoRMrCxZyrE_WvOvRE4bZnxEQB4Aslpzgz8dDJfHDVrO4a8ZCKlMUgM6_VhHXzGqoFjm-c4ab7yYHIHIhm01AygfutuyIpEoX-q7LEPwFve7s0nr4p9XxZG--23LddK6JUMJ9Q?key=diMK_80ckKTiDYYhCkLD1Q"
+        },
+        {
+            "name": "Tiger",
+            "size": 8,
+            "location": "Asia",
+            "image": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeBZLXYBV6TTm8k-INYm14nbLbzExLztgZs4cMPQAPSTHZjTDB2tu-Rq8FTgwssFon1FEi4EPaH6s_iGCJlKNvYW9IhdHPZ0hyEkbVDOq4YWcrXigrCEc656SYZlhC6HTimWdzopQ?key=diMK_80ckKTiDYYhCkLD1Q"
+        },
+        {
+            "name": "Leopard",
+            "size": 5,
+            "location": "Africa and Asia",
+            "image": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdM7bbv88e1cc6hvEcGNj5WCRPkO0kJimOfAq4EP2BzqYm-oFjDg59CFlaJLnyDqv6GeM9rmn_9tEn_ef6liBjvggye_3c3I8XkbNmOU1lkTDGORcfR5ODn1_ANJyX1FZsP5EMi?key=diMK_80ckKTiDYYhCkLD1Q"
+        },
+        {
+            "name": "Cheetah",
+            "size": 5,
+            "location": "Africa",
+            "image": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXeYo_SYQHBDklEGAlVpjXZ3win5lQBCF3R2vd6gEAl-D9NM6LNyGo1Fb8btkflMLHfrJneC03m4ED6clEJAnk3JDcW7UEuEFgSRUoGeu5a0FO0CC2PHNMwJNc-Fu30SIafxOYkXzw?key=diMK_80ckKTiDYYhCkLD1Q"
+        },
+        {
+            "name": "Caracal",
+            "size": 3,
+            "location": "Africa",
+            "image": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcBS8aVJ9NkN3D7hr46L9GqCe0eYLB2PDqNiML4wPfpvAFN7QiAsBQdBy8wZjF7jI8y2WHQG2Zk_o6EndKbyHN4iyjKHGgQgLfiP7IPE5LJzY7lma4rltbw0o7dZ-uMexiqSjiHyQ?key=diMK_80ckKTiDYYhCkLD1Q"
+        },
+        {
+            "name": "Jaguar",
+            "size": 5,
+            "location": "Amazon",
+            "image": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdi5Ej1TZZHYDpVhOI9N21MNpkKwUZFp4xsm6ICkaIR4tMx3dz6p9tI1dz4vNH-bnjGABnJ6fi4YmZk0caEn92KOjHmpqpCaX5peLU_bHQiUS0W-KUCgcmdBaxFr5dVsyDDTne4Hg?key=diMK_80ckKTiDYYhCkLD1Q"
+        }
+    ],
+    "dogsData": [
+        {
+            "name": "Rottweiler",
+            "size": 2,
+            "location": "Germany",
+            "image": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXe0oByTXiUhd-xYs02JJYzr3LLw1jzKyuYD2eEMYBlQ7yhyushKxU_MHpIkVBP4UA-qdggx-qHtN2bbbOV6JMgVQkVJyJBMsvgjAOrLOe1Gmc1btYKe2zK0DDJMjGGdz3yieHeI?key=diMK_80ckKTiDYYhCkLD1Q"
+        },
+        {
+            "name": "German Shepherd",
+            "size": 2,
+            "location": "Germany",
+            "image": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXf4eDV0WgpOgV2QBlu9igVTZYj6om-7s8mQgwwitHbrGX7Nswhr0u8T_j0kKQ3dDDn-fGD_oixwf5zdYpG5nGFya0j14y23YM4tGwyzkn_Raq1tl6rls5Nlx4qJy3ZaCRC0zm-EfQ?key=diMK_80ckKTiDYYhCkLD1Q"
+        },
+        {
+            "name": "Labrador",
+            "size": 2,
+            "location": "UK",
+            "image": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcZZ1jXHfPLwP4zBdi0vX23vm52vt90v9Vc6kNjP8XKuNszisbvkeQcwPvWlGz1J80uJEYQCSWefzSXvG738fiysBMxwh6cVUR102vkmOGetsfFZR5eNJfaPo-oUT1yXFdnRiglCg?key=diMK_80ckKTiDYYhCkLD1Q"
+        },
+        {
+            "name": "Alabai",
+            "size": 4,
+            "location": "Turkey",
+            "image": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcBSnG9WQx7VZaces4QIYhnD56eHEKBjlenRPT5O-RI4KS__ikJbpVZD8EM98G5W_iHNKY8u_33LFwINcyHVQsmOyvjJ1k9CdJlX6i0PTZKSQZQ3I9XyFw9p1Wa4Rva4yXr6qA8Jg?key=diMK_80ckKTiDYYhCkLD1Q"
+        }
+    ],
+    "bigFishData": [
+        {
+            "name": "Humpback Whale",
+            "size": 15,
+            "location": "Atlantic Ocean",
+            "image": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXf-3VV8oTxlvITZFhE-ZgT7fS-GOEUAWaVGeohrrXvfZig9s02X0mViULf3ShZOIczRNyAHtHEAQX5vuq_y_eIQaoZ-LfFTFWHqQwXcqbrIox8jS7Y0uqfDBFiPtKp_IAXUQb1z5A?key=diMK_80ckKTiDYYhCkLD1Q"
+        },
+        {
+            "name": "Killer Whale",
+            "size": 12,
+            "location": "Atlantic Ocean",
+            "image": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXdK36M801zIxGvTzCZ8GhbxBcBetPIgBbNaV2kkwd2isG7bUqq1p6i3WuOMZv290gQRRr4JsK1MlwJoDAdlpAWk5dCHUIkZPebSNU6teV4K7kjbFFZLNhNV54u0EMzbrAiSFPXJ?key=diMK_80ckKTiDYYhCkLD1Q"
+        },
+        {
+            "name": "Tiger Shark",
+            "size": 8,
+            "location": "Ocean",
+            "image": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXecsYepNs_WEema0vxP7oNEN1dIkgaVRKD01yjtAJsAj4OX-BJPrlY3iVGWu9P19LMKAfKMh9LI-aH5LKN8Wk8ziV53xY9I-WxaUJ6so6zhOhXqNcLG-Dcwa0upTgYPlkAwG29d?key=diMK_80ckKTiDYYhCkLD1Q"
+        },
+        {
+            "name": "Hammerhead Shark",
+            "size": 8,
+            "location": "Ocean",
+            "image": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXchabqdXqWuYl5P3HnvrLb0E90wv3nevurDONOi5faSSg7-j43g24IEld_3fam-F1AMy2QtRyrLhDKA2E1qL-XbAj-H7768ZuYHLDjzIQ1JVjtNTFPAsXPO5X-M1l42S9HX818f?key=diMK_80ckKTiDYYhCkLD1Q"
+        }
+    ]
+}
